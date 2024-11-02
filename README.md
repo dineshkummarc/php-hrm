@@ -1,9 +1,7 @@
 # Profiling System For Human Resource Management using PHP/PDO
-
 <div align="middle"><img src="banner.png" alt="Banner Image" /></div>
 
 ### Description
-
 <p><em>The purpose of this system is to keep the records of employees under the Human Resource Department to maintain the private information of the personnel like 201 files and other job-related files.</em></p>
 
 ### Features
